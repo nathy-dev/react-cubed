@@ -1,8 +1,5 @@
 # Welcome to React three fiber Minecraft
 
-This project was created following the guide from Coding Tech and is being extended by me. 
-
-
 ## How to play?
 
 Currently it has 5 types of blocks: Grass, Wood, Log, Glass and Dirt.
@@ -22,3 +19,4 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The idea for this project came from Coding Tech's youtube channel.
